@@ -1,7 +1,7 @@
 # Matheus Alves - Desenvolvedor Backend .NET
 
 | **Hello Guys!** Meu nome é **Matheus Alves** e sou apaixonado por tecnologia e desenvolvimento de jogos! |
-Atualmente, estou na graduação de **Engenharia de Software**, me especializando em **C#** e focando em **.NET e Unity**. Estou mergulhando no desenvolvimento **back-end** para criar soluções incríveis e desenvolver jogos que deixam minha criatividade fluir! | ![Ilustração de um computador](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) |
+Atualmente, estou na graduação de **Engenharia de Software**, me especializando em **C#** e focando em **.NET e Unity**. Estou mergulhando no desenvolvimento **back-end** para criar grandes soluções  e desenvolver software e jogos que deixam minha criatividade fluir! | ![Ilustração de um computador](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) |
 |:--|:--|
 
 ### 🛠️ Linguagens:
