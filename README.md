@@ -26,6 +26,9 @@ Atualmente, estou na graduação de **Engenharia de Software**, me especializand
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theusz/)
 [![DIO](https://img.shields.io/badge/-DIO-00BFFF?style=flat-square&logo=appveyor&logoColor=white)](https://web.dio.me/users/theusz?tab=achievements)
 [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white)](LINK-DO-SEU-INSTAGRAM)
+[![Portfolio](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=world&logoColor=white)](https://theuszon.pythonanywhere.com)
+
+
 
 ### 🎮 Meus Jogos em Unity
 **Unity Play:** [https://play.unity.com/en/user/49d748a7-d5a2-47d3-bd25-9564f09c44d8]
