@@ -5,7 +5,9 @@ Atualmente, estou na graduação de **Engenharia de Software**, me especializand
 |:--|:--|
 
 ### 🛠️ Linguagens:
-**C#, Python, JavaScript**.
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+
 
 ### 💻 Frameworks
 
