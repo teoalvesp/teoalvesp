@@ -13,7 +13,7 @@ Atualmente, estou na graduação de **Engenharia de Software**, me especializand
 
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SqlServer](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -21,7 +21,7 @@ Atualmente, estou na graduação de **Engenharia de Software**, me especializand
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 
-### 📫 Entre em contato comigo: ⤵️
+### 🌐 Conheça minhas Redes: ⤵️
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:teoalves.contact@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theusz/)
 [![DIO](https://img.shields.io/badge/-DIO-00BFFF?style=flat-square&logo=appveyor&logoColor=white)](https://web.dio.me/users/theusz?tab=achievements)
